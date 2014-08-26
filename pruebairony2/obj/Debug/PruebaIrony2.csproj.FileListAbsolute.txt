@@ -1,0 +1,31 @@
+c:\users\luis fernando\documents\visual studio 2013\Projects\PruebaIrony2\PruebaIrony2\bin\Debug\PruebaIrony2.exe.config
+c:\users\luis fernando\documents\visual studio 2013\Projects\PruebaIrony2\PruebaIrony2\bin\Debug\PruebaIrony2.exe
+c:\users\luis fernando\documents\visual studio 2013\Projects\PruebaIrony2\PruebaIrony2\bin\Debug\PruebaIrony2.pdb
+c:\users\luis fernando\documents\visual studio 2013\Projects\PruebaIrony2\PruebaIrony2\bin\Debug\Irony.dll
+c:\users\luis fernando\documents\visual studio 2013\Projects\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.csprojResolveAssemblyReference.cache
+c:\users\luis fernando\documents\visual studio 2013\Projects\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.Form1.resources
+c:\users\luis fernando\documents\visual studio 2013\Projects\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.Properties.Resources.resources
+c:\users\luis fernando\documents\visual studio 2013\Projects\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.csproj.GenerateResource.Cache
+c:\users\luis fernando\documents\visual studio 2013\Projects\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.exe
+c:\users\luis fernando\documents\visual studio 2013\Projects\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.pdb
+C:\Users\Public\Documents\PruebaIrony2\PruebaIrony2\bin\Debug\PruebaIrony2.exe.config
+C:\Users\Public\Documents\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.exe
+C:\Users\Public\Documents\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.pdb
+C:\Users\Public\Documents\PruebaIrony2\PruebaIrony2\bin\Debug\PruebaIrony2.exe
+C:\Users\Public\Documents\PruebaIrony2\PruebaIrony2\bin\Debug\PruebaIrony2.pdb
+C:\Users\Public\Documents\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.Form1.resources
+C:\Users\Public\Documents\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.Properties.Resources.resources
+C:\Users\Public\Documents\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.csproj.GenerateResource.Cache
+C:\Users\Ariel\Dropbox\Compiladores2\2do. Sem 2014\LABORATORIO\ejemplo irony\PruebaIrony2\PruebaIrony2\bin\Debug\PruebaIrony2.exe.config
+C:\Users\Ariel\Dropbox\Compiladores2\2do. Sem 2014\LABORATORIO\ejemplo irony\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.exe
+C:\Users\Ariel\Dropbox\Compiladores2\2do. Sem 2014\LABORATORIO\ejemplo irony\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.pdb
+C:\Users\ArielIsai\Documents\src\PruebaIrony2\PruebaIrony2\bin\Debug\PruebaIrony2.exe.config
+C:\Users\ArielIsai\Documents\src\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.exe
+C:\Users\ArielIsai\Documents\src\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.pdb
+C:\Users\ArielIsai\Documents\src\PruebaIrony2\PruebaIrony2\bin\Debug\PruebaIrony2.exe
+C:\Users\ArielIsai\Documents\src\PruebaIrony2\PruebaIrony2\bin\Debug\PruebaIrony2.pdb
+C:\Users\ArielIsai\Documents\src\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.csprojResolveAssemblyReference.cache
+C:\Users\ArielIsai\Documents\src\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.Form1.resources
+C:\Users\ArielIsai\Documents\src\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.Properties.Resources.resources
+C:\Users\ArielIsai\Documents\src\PruebaIrony2\PruebaIrony2\obj\Debug\PruebaIrony2.csproj.GenerateResource.Cache
